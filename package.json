@@ -1,0 +1,21 @@
+{
+  "name": "ethara-team-task-manager",
+  "version": "1.0.0",
+  "description": "Full-stack team task manager with role-based access control.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "task-manager",
+    "project-management",
+    "rbac",
+    "rest-api"
+  ],
+  "author": "",
+  "license": "MIT"
+}
